@@ -1,10 +1,6 @@
 ### Hi there 👋
 
 
-**santi-iztli/santi-iztli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,8 +9,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-
-
-<div id="elemID031021" style="line-height:16px;text-align:center;position:relative;z-index:100000;"><a href="https://www.tracemyip.org/tools/cookie-free-tracking-analytics-eu-cookie-law-solution/"><img src="//s2.tracemyip.org/vLg/1500~1667764735~14*2~0F5999*F7FFE6*537899*000000~0*0*0*0*0/4684NR-IPIB/98641/11/njsUrl/" alt="Cookie Free Visit Trackers" referrerPolicy="no-referrer-when-downgrade" style="border:0px;"></a></div>
