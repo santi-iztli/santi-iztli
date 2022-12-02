@@ -9,9 +9,9 @@
 <p align="center">
 <a href="https://linkedin.com/in/santidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santidev" height="30" width="40" /></a>
 </p>
-<h2>Mira mi portfolio</h2>
+<h2 align="center">Mira mi portfolio</h2>
 
- <a href="https://santi-iztli.github.io/portfolio/" targer="_blank">
+ <a align="center" href="https://santi-iztli.github.io/portfolio/" targer="_blank">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
  </a>
 <h3 align="center">Languages and Tools:</h3>
