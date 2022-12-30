@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santiago Morera</h1>
 <h3 align="center">A passionate full stack developer from México</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=santi-iztli&label=Profile%20views&color=0e75b6&style=flat" alt="santi-iztli" /> </p>
+
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santi-iztli" alt="santi-iztli" /></a> </p>
 
@@ -22,4 +22,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santi-iztli&" alt="santi-iztli" /></p>
 
-<div id="elemID031021" style="line-height:16px;text-align:center;position:relative;z-index:100000;"><a href="https://www.tracemyip.org/website-visitors-alerts.htm"><img src="//s2.tracemyip.org/vLg/1500~1668553603~14*2~0F5999*F7FFE6*537899*000000~1*1*0*0*0/4684NR-IPIB/98693/11/njsUrl/" alt="" referrerPolicy="no-referrer-when-downgrade" style="border:0px;"></a></div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=santi-iztli&label=Profile%20views&color=0e75b6&style=flat" alt="santi-iztli" /> </p>
